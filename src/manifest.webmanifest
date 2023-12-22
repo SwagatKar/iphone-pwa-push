@@ -1,6 +1,6 @@
 {
-  "name": "push-notification",
-  "short_name": "push-notification",
+  "name": "push-notification-pwa",
+  "short_name": "push-notification-pwa",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
